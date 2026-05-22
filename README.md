@@ -44,8 +44,4 @@
 
 <br/><br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/excl1pz/excl1pz/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 </div>
