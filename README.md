@@ -94,7 +94,7 @@ $ ping excl1pz --social
 
 <div align="center">
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d0d0d&border_color=00FF41)](https://open.spotify.com/user/excl1pz)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d0d0d&border_color=00FF41)](https://open.spotify.com/user/shin)
 
 </div>
 
