@@ -40,7 +40,6 @@
 
 <br/>
 
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=excl1pz&layout=compact&theme=rose_pine&hide_border=true&bg_color=1a0a2e&title_color=c084fc&text_color=f5f0eb" />
 &nbsp;&nbsp;
 <img height="155" src="https://streak-stats.demolab.com?user=excl1pz&theme=rose-pine&hide_border=true&background=1a0a2e&ring=c084fc&fire=e8c4f0&currStreakLabel=c084fc&sideLabels=f5f0eb&dates=9d9d9d" />
 
