@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[https://i.postimg.cc/0jGY137m/exclipzpdf.png](https://i.postimg.cc/PxvGybY4/cafac3ec2193f5fcf6dbf057bb306117.jpg)" width="550"/>
+<img src="https://i.postimg.cc/PxvGybY4/cafac3ec2193f5fcf6dbf057bb306117.jpg" width="550"/>
 
 ## THE STACK
 
