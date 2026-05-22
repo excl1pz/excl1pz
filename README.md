@@ -30,8 +30,6 @@
 
 <br/>
 
----
-
 ## THE NUMBERS
 
 <div align="center">
