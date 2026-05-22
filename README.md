@@ -30,7 +30,7 @@
 
 <br/>
 
-## THE NUMBERS
+## ABOUT EVERYDAY LIFE
 
 <div align="center">
 
