@@ -34,7 +34,7 @@
 
 ---
 
-## `№ 03 — THE NUMBERS`
+## THE NUMBERS
 
 <div align="center">
 
