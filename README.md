@@ -24,7 +24,7 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0a2e,100:e8c4f0&height=120&section=header&text=EXCLIPS&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a0a2e,100:e8c4f0&height=120&section=header&text=EXCLIPZ&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
 
 </div>
 
