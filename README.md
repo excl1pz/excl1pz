@@ -1,4 +1,4 @@
-## `№ 02 — THE STACK`
+## THE STACK
 
 <div align="center">
 
