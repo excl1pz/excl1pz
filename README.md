@@ -12,37 +12,6 @@
 
 </div>
 
-<!-- Typing SVG -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%96%A5%EF%B8%8F;Crafting+UIs+one+pixel+at+a+time...;%3E+initializing+excl1pz.exe...;%3E+Loading+creative+stack...;%3E+System+ready.+%E2%96%88" alt="Typing SVG" />
-</div>
-
----
-
-```bash
-$ whoami
-> excl1pz — Frontend Developer | UI Craftsman | Pixel Perfectionist
-
-$ cat about.txt
-> Building beautiful, fast, and interactive web experiences.
-> Obsessed with clean code, smooth animations & great UX.
-> Currently: turning coffee into components ☕
-```
-
----
-
-## `~/tech-stack`
-
-```javascript
-const excl1pz = {
-  languages : ["JavaScript", "TypeScript", "HTML", "CSS"],
-  frameworks: ["React", "Next.js", "Vue", "Astro"],
-  styling   : ["Tailwind CSS", "SCSS", "Framer Motion", "CSS Animations"],
-  tools     : ["Vite", "Figma", "Git", "VS Code"],
-  currently : "Learning Three.js & WebGL 🚀",
-};
-```
-
 ---
 
 ## `~/github-stats`
