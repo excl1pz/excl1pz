@@ -45,7 +45,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=excl1pz&bg_color=1a0a2e&color=e8c4f0&line=c084fc&point=f5f0eb&area=true&area_color=2d1155&hide_border=true&custom_title=Contribution%20Chronicle%20 %20excl1pz" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=excl1pz&bg_color=1a0a2e&color=e8c4f0&line=c084fc&point=f5f0eb&area=true&area_color=2d1155&hide_border=true&custom_title=Contribution%20Chronicle%20-%20excl1pz" />
 
 <br/>
 
