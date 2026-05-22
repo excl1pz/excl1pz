@@ -1,16 +1,6 @@
 <div align="center">
 
-<img src="https://i.postimg.cc/0jGY137m/exclipzpdf.png" width="170"/>
-
-# EXCLIPS
-
-### `Modern Developer • UI Engineer • Creative Builder`
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,30,36&height=2&section=header" width="70%"/>
-
-<br/><br/>
+<img src="https://i.postimg.cc/0jGY137m/exclipzpdf.png" width="550"/>
 
 ## THE STACK
 
