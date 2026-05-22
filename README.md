@@ -13,6 +13,10 @@
 
 <br/>
 
+![TailwindCSS](https://img.shields.io/badge/Tailwind-1a0a2e?style=for-the-badge&logo=tailwind-css&logoColor=e8c4f0)
+![SCSS](https://img.shields.io/badge/SCSS-1a0a2e?style=for-the-badge&logo=sass&logoColor=c084fc)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-1a0a2e?style=for-the-badge&logo=framer&logoColor=f5f0eb)
+![Figma](https://img.shields.io/badge/Figma-1a0a2e?style=for-the-badge&logo=figma&logoColor=e8c4f0)
 ![Vite](https://img.shields.io/badge/Vite-1a0a2e?style=for-the-badge&logo=vite&logoColor=c084fc)
 ![Git](https://img.shields.io/badge/Git-1a0a2e?style=for-the-badge&logo=git&logoColor=e8c4f0)
 
